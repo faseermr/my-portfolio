@@ -1,3 +1,4 @@
+"use client";
 import { Github, ExternalLink } from "lucide-react";
 
 type Props = {
